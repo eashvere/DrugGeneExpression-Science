@@ -1,0 +1,11 @@
+*.pth
+*.pkl
+
+__pycache__/
+data/
+models/
+.vscode/
+.ipynb_checkpoints/
+input/
+results/
+saves/
